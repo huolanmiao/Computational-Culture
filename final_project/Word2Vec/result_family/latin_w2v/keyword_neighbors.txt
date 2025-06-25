@@ -1,0 +1,204 @@
+frater 的 Top 相似词：
+  filius: 0.6695
+  uxor: 0.6286
+  socer: 0.6190
+  meus: 0.6118
+  tuus: 0.5962
+  patruus: 0.5960
+  Lucius: 0.5847
+  gener: 0.5827
+  germanus: 0.5764
+  senior: 0.5748
+
+soror 的 Top 相似词：
+  abavi: 0.8825
+  amita: 0.8821
+  matertera: 0.8811
+  proavia: 0.8759
+  proavi: 0.8742
+  avia: 0.8729
+  proamita: 0.8699
+  proavunculus: 0.8667
+  abavunculus: 0.8632
+  atavus: 0.8615
+
+patruelis 的 Top 相似词：
+  neptisve: 0.9566
+  consobrinae: 0.9565
+  amitini: 0.9523
+  amitinae: 0.9480
+  ataviae: 0.9467
+  aviaeve: 0.9448
+  promaterterae: 0.9420
+  filiaeve: 0.9406
+  proavunculi: 0.9380
+  Avunculi: 0.9373
+
+sobrinus 的 Top 相似词：
+  fratresque: 0.9635
+  continebit: 0.9616
+  neptisue: 0.9603
+  patrisfamilias: 0.9582
+  nuptae: 0.9565
+  optimae: 0.9556
+  Rebeccae: 0.9547
+  victoriarum: 0.9542
+  matrique: 0.9538
+  morienti: 0.9531
+
+consobrinus 的 Top 相似词：
+  consobrina: 0.9605
+  consobrinae: 0.9527
+  proaviae: 0.9499
+  aviaeque: 0.9491
+  ataviae: 0.9489
+  aviaeve: 0.9429
+  aviae: 0.9417
+  proavi: 0.9405
+  neptisve: 0.9378
+  consobrini: 0.9367
+
+filius 的 Top 相似词：
+  nepos: 0.7390
+  filia: 0.7351
+  patruelis: 0.7101
+  patruus: 0.7046
+  pronepos: 0.6867
+  gener: 0.6792
+  primogenitus: 0.6743
+  Filius: 0.6702
+  frater: 0.6695
+  Lucius: 0.6633
+
+filia 的 Top 相似词：
+  nepos: 0.8740
+  pronepos: 0.8606
+  neptis: 0.8534
+  sororis: 0.8425
+  proneptis: 0.8420
+  patruelis: 0.8311
+  abnepos: 0.8241
+  pronepotis: 0.8211
+  filiaeve: 0.8168
+  neptisve: 0.8148
+
+nepos 的 Top 相似词：
+  pronepos: 0.9263
+  neptis: 0.9082
+  consobrini: 0.9080
+  patruelis: 0.8996
+  amitini: 0.8978
+  consobrinae: 0.8967
+  proneptis: 0.8923
+  abnepos: 0.8921
+  amitinae: 0.8859
+  consobrinus: 0.8844
+
+neptis 的 Top 相似词：
+  proneptis: 0.9697
+  pronepos: 0.9608
+  abneptis: 0.9580
+  pronepotis: 0.9558
+  abnepos: 0.9555
+  adneptis: 0.9498
+  adnepos: 0.9425
+  transverso: 0.9423
+  trineptis: 0.9387
+  atavi: 0.9335
+
+pater 的 Top 相似词：
+  mater: 0.6918
+  Pater: 0.6779
+  tuus: 0.6299
+  meus: 0.6290
+  maritus: 0.5972
+  divus: 0.5799
+  Childeberthus: 0.5789
+  patruus: 0.5721
+  avus: 0.5715
+  nepus: 0.5686
+
+mater 的 Top 相似词：
+  nurus: 0.7843
+  socrus: 0.7765
+  noverca: 0.7676
+  matri: 0.7638
+  uxor: 0.7557
+  coniux: 0.7487
+  filiae: 0.7467
+  nutrix: 0.7429
+  coniunx: 0.7378
+  mortua: 0.7361
+
+patruus 的 Top 相似词：
+  patruelis: 0.9139
+  convenienter: 0.9134
+  avunculus: 0.9115
+  consobrinus: 0.8988
+  propatruus: 0.8975
+  ataviae: 0.8972
+  proavunculus: 0.8948
+  proaviae: 0.8925
+  abaviaeve: 0.8921
+  amita: 0.8920
+
+amita 的 Top 相似词：
+  matertera: 0.9784
+  avunculus: 0.9543
+  ponatur: 0.9410
+  aviae: 0.9348
+  proavunculus: 0.9333
+  abavi: 0.9307
+  proaviae: 0.9297
+  promatertera: 0.9276
+  abaviae: 0.9274
+  convenienter: 0.9266
+
+avunculus 的 Top 相似词：
+  matertera: 0.9569
+  amita: 0.9543
+  aviae: 0.9394
+  sobrino: 0.9357
+  proavi: 0.9345
+  proaviae: 0.9342
+  aviaeve: 0.9263
+  atavi: 0.9261
+  proavunculus: 0.9240
+  ataviae: 0.9226
+
+matertera 的 Top 相似词：
+  amita: 0.9784
+  ponatur: 0.9593
+  avunculus: 0.9569
+  proavunculus: 0.9338
+  abavi: 0.9311
+  promatertera: 0.9264
+  proaviae: 0.9262
+  proavia: 0.9244
+  aviae: 0.9225
+  abmatertera: 0.9198
+
+avus 的 Top 相似词：
+  proavus: 0.9643
+  abavus: 0.9430
+  proavia: 0.9410
+  proavi: 0.9346
+  atavus: 0.9329
+  propatruus: 0.9298
+  proavunculus: 0.9287
+  proamita: 0.9279
+  proaviae: 0.9277
+  paternus: 0.9248
+
+avia 的 Top 相似词：
+  proavia: 0.9592
+  abavi: 0.9571
+  proavus: 0.9521
+  abavus: 0.9488
+  abavia: 0.9482
+  abaviae: 0.9457
+  atavia: 0.9432
+  proaviae: 0.9431
+  atavus: 0.9424
+  proavi: 0.9387
+

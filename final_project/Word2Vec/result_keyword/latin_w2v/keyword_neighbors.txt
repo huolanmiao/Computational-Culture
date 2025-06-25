@@ -1,0 +1,84 @@
+pater 的 Top 相似词：
+  Pater: 0.6618
+  mater: 0.6334
+  tuus: 0.6327
+  meus: 0.6278
+  nepus: 0.6112
+  socer: 0.6036
+  frater: 0.6030
+  Childeberthus: 0.5973
+  tyrannus: 0.5825
+  avus: 0.5812
+
+fratris 的 Top 相似词：
+  sororis: 0.7269
+  regis: 0.7145
+  patris: 0.7071
+  sui: 0.6855
+  domini: 0.6782
+  nepotis: 0.6781
+  comitis: 0.6695
+  uxoris: 0.6647
+  patrui: 0.6634
+  Quarti: 0.6599
+
+frater 的 Top 相似词：
+  filius: 0.6487
+  uxor: 0.6413
+  meus: 0.6284
+  tuus: 0.6260
+  socer: 0.6149
+  magister: 0.6064
+  pater: 0.6030
+  filia: 0.5951
+  suus: 0.5946
+  adolescens: 0.5943
+
+maiorum 的 Top 相似词：
+  exempla: 0.7298
+  legum: 0.7044
+  leges: 0.7043
+  mores: 0.7035
+  civium: 0.6897
+  scelerum: 0.6801
+  parentum: 0.6792
+  instituta: 0.6754
+  patrum: 0.6712
+  animos: 0.6689
+
+parentum 的 Top 相似词：
+  tuorum: 0.7602
+  inimicorum: 0.7476
+  vestrorum: 0.7294
+  meorum: 0.7259
+  reverentia: 0.7131
+  pignora: 0.7094
+  defuncti: 0.7022
+  scelerum: 0.7015
+  fratrum: 0.6997
+  sororum: 0.6991
+
+pietas 的 Top 相似词：
+  misera: 0.8042
+  dolor: 0.7796
+  fides: 0.7679
+  spes: 0.7649
+  pudor: 0.7600
+  mens: 0.7501
+  virtus: 0.7455
+  sapientia: 0.7451
+  acerba: 0.7388
+  felicitas: 0.7375
+
+oboedientia 的 Top 相似词：
+  humilitate: 0.9304
+  ineffabili: 0.9303
+  imagine: 0.9286
+  miseria: 0.9254
+  impleta: 0.9243
+  cultura: 0.9234
+  mentione: 0.9222
+  liberalitas: 0.9195
+  aequitate: 0.9179
+  bonitas: 0.9174
+
